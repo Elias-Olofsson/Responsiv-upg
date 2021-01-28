@@ -1,0 +1,21 @@
+.circle{
+  position:absolute;
+  height:100px;
+  width:100px;
+  background-color:yellow;
+  border-radius:50%;
+  display:inline-block;
+  z-index:2;
+  top:10px;
+  left:35px;
+}
+.rectangle{
+  position:absolute;
+  height:100px;
+  width:150px;
+  background-color:lightblue;
+  display:inline-block;
+  z-index:1;
+  top:10px;
+  left:10px;
+}
